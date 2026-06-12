@@ -1,6 +1,8 @@
 # my--c-projects
 "My basic c program codes and exercises"
+
  Index of Programs
+ 
 Yahan mere saare C programming ke codes hain:
 
 * 📄 [Arrays Programs](Arrays.c)
