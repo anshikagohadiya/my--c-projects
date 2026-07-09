@@ -11,4 +11,4 @@ Yahan mere saare C programming ke codes hain:
 * 📄 [For Loops](for-loops.c)
 * 📄 [Pattern Printing](patterns.c)
 * 📄 [All Programs](all_programs.c)
-* 📄 [String programs](string.c)
+* 📄 [String programs](String.c)
