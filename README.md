@@ -13,3 +13,4 @@ Here is my c programming codes.
 * 📄 [Pattern Printing](patterns.c)
 * 📄 [All Programs](all_programs.c)
 * 📄 [String programs](Strings.c)
+* 📄 [pointers programs](pointers.c)
