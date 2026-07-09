@@ -3,7 +3,8 @@
 
  Index of Programs
  
-Yahan mere saare C programming ke codes hain:
+Here is my c programming codes.
+-------------------------------
 
 * 📄 [Arrays Programs](Arrays.c)
 * 📄 [Character Handling](Characters.c)
