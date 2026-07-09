@@ -12,4 +12,4 @@ Here is my c programming codes.
 * 📄 [For Loops](for-loops.c)
 * 📄 [Pattern Printing](patterns.c)
 * 📄 [All Programs](all_programs.c)
-* 📄 [String programs](String.c)
+* 📄 [String programs](Strings.c)
