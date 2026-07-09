@@ -14,3 +14,4 @@ Here is my c programming codes.
 * 📄 [All Programs](all_programs.c)
 * 📄 [String programs](Strings.c)
 * 📄 [pointers programs](pointers.c)
+* 📄 [functions programs](functions.c)
