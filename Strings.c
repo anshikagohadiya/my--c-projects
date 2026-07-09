@@ -10,7 +10,7 @@ void main()
 	for(i=0;x[i];i++);
 	printf("Length:%d",i);
 }
-      or
+      
 --------------
 #include<stdio.h>
 #include<string.h>
